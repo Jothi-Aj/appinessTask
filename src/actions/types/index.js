@@ -1,4 +1,3 @@
-export const BASIC_SETUP = 'BASIC_SETUP'
-export const WEATHER_ACTION = 'WEATHER_ACTION'
+
 export const LOGIN_ACTION = 'LOGIN_ACTION';
 export const EMPLOYEE_LIST = 'EMPLOYEE_LIST';
